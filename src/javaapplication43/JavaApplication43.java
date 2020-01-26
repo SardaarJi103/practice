@@ -18,7 +18,10 @@ public class JavaApplication43 {
         System.out.println("hghgjgjhvhjv Sharreko Machoo");
                 System.out.println("hghgjgjhvhjv Sharreko Machoo");
                 System.out.println("hghgjgjhvhjv Sharreko Machoo");
-                System.out.println("hghgjgjhvhjv Sharreko Machoo");        System.out.println("hghgjgjhvhjv Sharreko Machoo");        System.out.println("hghgjgjhvhjv Sharreko Machoo");
+                System.out.println("hghgjgjhvhjv Sharreko Machoo");
+                System.out.println("this is nbrmajcjcjcjcc");
+                System.out.println("hghgjgjhvhjv Sharreko Machoo");        System.out.println("hghgjgjhvhjv Sharreko Machoo");
+                   System.out.println("jshckjdshjs csdjc sdj cj sdkjc kdj csd");
     }
     
 }
